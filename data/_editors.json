@@ -1,52 +1,52 @@
 [
     {
         "role": "owner",
-        "name": "MinnoxMilo",
-        "link": "https://www.youtube.com/@joedyjrjxminnoxmilo"
-    },
-    {
-        "role": "admin",
-        "name": "Theorangeamongus",
-        "link": "https://www.youtube.com/@Theorangeamongus"
-    },
-    {
-        "role": "admin",
-        "name": "tgof",
+        "name": "thedethronergd",
         "link": "*"
     },
     {
         "role": "admin",
-        "name": "Lucasuioptu",
+        "name": "#спокойствие",
         "link": "*"
     },
     {
         "role": "admin",
-        "name": "Yarub",
+        "name": "thedethronergd",
         "link": "*"
     },
     {
         "role": "admin",
-        "name": "Bryce",
+        "name": "thedethronergdu",
         "link": "*"
     },
     {
         "role": "admin",
-        "name": "Fdefran",
+        "name": "thedethronergd",
+        "link": "*"
+    },
+    {
+        "role": "admin",
+        "name": "thedethronergd",
+        "link": "*"
+    },
+    {
+        "role": "admin",
+        "name": "thedethronergd",
         "link": "*"
     },
     {
         "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "#спокойствие",
+        "link": "*"
     },
     {
         "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "#спокойствие",
+        "link": "*"
     },
     {
         "role": "dev",
-        "name": "Theorangeamongus",
-        "link": "https://www.youtube.com/@Theorangeamongus"
+        "name": "thedethronergd, #спокойствие",
+        "link": "*"
     }
 ]
