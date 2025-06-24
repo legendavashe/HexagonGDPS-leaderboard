@@ -1,0 +1,52 @@
+[
+    {
+        "role": "owner",
+        "name": "MinnoxMilo",
+        "link": "https://www.youtube.com/@joedyjrjxminnoxmilo"
+    },
+    {
+        "role": "admin",
+        "name": "Theorangeamongus",
+        "link": "https://www.youtube.com/@Theorangeamongus"
+    },
+    {
+        "role": "admin",
+        "name": "tgof",
+        "link": "*"
+    },
+    {
+        "role": "admin",
+        "name": "Lucasuioptu",
+        "link": "*"
+    },
+    {
+        "role": "admin",
+        "name": "Yarub",
+        "link": "*"
+    },
+    {
+        "role": "admin",
+        "name": "Bryce",
+        "link": "*"
+    },
+    {
+        "role": "admin",
+        "name": "Fdefran",
+        "link": "*"
+    },
+    {
+        "role": "helper",
+        "name": "List Helper",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
+    },
+    {
+        "role": "trial",
+        "name": "Trial List Helper",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
+    },
+    {
+        "role": "dev",
+        "name": "Theorangeamongus",
+        "link": "https://www.youtube.com/@Theorangeamongus"
+    }
+]
