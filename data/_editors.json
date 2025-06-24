@@ -1,0 +1,27 @@
+[
+    {
+        "role": "owner",
+        "name": "MinnoxMilo",
+        "link": "https://www.youtube.com/@joedyjrjxminnoxmilo"
+    },
+    {
+        "role": "admin",
+        "name": "Theorangeamongus",
+        "link": "https://www.youtube.com/@Theorangeamongus"
+    },
+    {
+        "role": "helper",
+        "name": "List Helper",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
+    },
+    {
+        "role": "trial",
+        "name": "Trial List Helper",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
+    },
+    {
+        "role": "dev",
+        "name": "Theorangeamongus",
+        "link": "https://www.youtube.com/@Theorangeamongus"
+    }
+]

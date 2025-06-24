@@ -1,0 +1,24 @@
+{
+    "id": 109057492,
+    "name": "Wavering Waverton",
+    "author": "Sakupencheese2",
+    "creators": ["Sakupencheese2"],
+    "verifier": "Sakupencheese2",
+    "verification": "https://youtu.be/SqvnPfFlpqk",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "tgof",
+            "link": "https://streamable.com/w0bpr2",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Lavv",
+            "link": "https://streamable.com/qdt3ew",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}

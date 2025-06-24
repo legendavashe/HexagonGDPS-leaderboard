@@ -1,0 +1,31 @@
+{
+    "id": 108824602,
+    "name": "hi hi hi wave",
+    "author": "FDeFran",
+    "creators": ["FDeFran"],
+    "verifier": "FDeFran",
+    "verification": "https://www.youtube.com/watch?v=S4uTxP2X748",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+         {
+            "user": "Sakupencheese2",
+            "link": "https://www.youtube.com/watch?v=JhHP2SHt6Fc",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Lavv",
+            "link": "https://streamable.com/8b9esn",
+            "percent": 100,
+            "hz": 90
+        },
+        {
+            "user": "tgof",
+            "link": "https://streamable.com/vldaqv",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
+
